@@ -1,0 +1,13 @@
+{
+	"Type": [
+		"Any",
+		"Oil",
+		"Watercolor",
+		"Acrylic"
+	],
+	"Genre": [
+		"Any",
+		"Landscape",
+		"Still Life"
+	]
+}

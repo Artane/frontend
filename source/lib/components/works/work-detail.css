@@ -1,0 +1,32 @@
+.work-detail {
+	padding: 20px;
+}
+
+.work-detail > .image-container {
+	border: 3px solid black;
+	margin-right: 20px;
+	float: left;
+	box-shadow: 8px 8px 15px #595959;
+}
+
+.work-detail > .image-container > img {
+	display: block;
+	max-width: 750px;
+	max-height: 580px;
+}
+
+.work-detail > .info {
+	background-color: black;
+	overflow: auto;
+	max-width: 400px;
+	padding: 20px;
+}
+
+.work-detail > .info > h1 {
+	margin-top: 0;
+	margin-bottom: 5px;
+}
+
+.work-detail > .info > h1 {
+	margin-top: 0;
+}

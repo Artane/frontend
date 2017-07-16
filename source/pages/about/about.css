@@ -1,0 +1,29 @@
+.center-page {
+	width: 720px;
+	margin: 20px auto 0 auto;
+}
+
+.page-heading {
+	background-color: black;
+	width: 100%;
+	padding: 5px;
+	text-align: center;
+	box-shadow: 5px 5px 10px #595959;
+	box-sizing: border-box;
+}
+
+.page-content {
+	padding: 0 15px;
+	color: black;
+	opacity: 0.9;
+	background-color: white;
+	border: 1px solid black;
+	margin-top: 10px;
+	width: 100%;
+	box-shadow: 5px 5px 10px #595959;
+	box-sizing: border-box;
+}
+
+.page-content > p {
+
+}

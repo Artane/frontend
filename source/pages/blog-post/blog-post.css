@@ -1,0 +1,9 @@
+#blogPost > .post-container {
+	width: 700px;
+	margin: 20px auto 0 auto;
+}
+
+div.post {
+	width: 100%;
+	overflow-y: visible;
+}
